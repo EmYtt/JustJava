@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava</string>
+    <string name="add_chocolate">Addera choklad</string>
+    <string name="add_whipped_cream">Addera vispad grädde</string>
+    <string name="chocolate">Choklad</string>
+    <string name="max_order">Du kan inte beställa fler än 100 koppar kaffe</string>
+    <string name="min_order">Du kan inte beställa färre än 1 kopp kaffe</string>
+    <string name="name">Namn</string>
+    <string name="order">Beställ</string>
+    <string name="order_for">JustJava beställning från</string>
+    <string name="quantity">Antal</string>
+    <string name="thank_you">Tack</string>
+    <string name="toppings">Toppingar</string>
+    <string name="whipped_cream">Vispad grädde</string>
+    <string name="total_price">Totalt: <xliff:g id="total" example="18">%d</xliff:g> kr</string>
+</resources>
